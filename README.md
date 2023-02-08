@@ -1,6 +1,6 @@
 # Scraping sobre Amazon
 
-Código para hacer web scraping de Amazon sobre los ejemplos de "productos para perro" y "whisky". Se obtienen 303 y 281 productos, respectivamente, al realizar la búsqueda simple en el buscador de Amazon en aproximadamente 1 minuto y 40 segundos por cada uno.
+Código para hacer web scraping sobre Amazon utilizando Scrapy, sobre los ejemplos de "productos para perro" y "whisky". Se obtienen 303 y 281 productos, respectivamente, al realizar la búsqueda simple en el buscador de Amazon en aproximadamente 1 minuto y 40 segundos por cada uno.
 
 Cada elemento extraído consta de:
 * Nombre del producto.
